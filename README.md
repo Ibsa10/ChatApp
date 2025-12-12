@@ -1,5 +1,5 @@
 # Socket ChatAPP.
-- This project is a real-time messaging system developed using Java Sockets. It implements a robust Client-Server model capable of handling multiple simultaneous connections.
+This project is a real-time messaging system developed using Java Sockets. It implements a robust Client-Server model capable of handling multiple simultaneous connections.
 ## ​Technical Implementation:
 - ​Technology Stack: Core Java (java.net.Socket, java.net.ServerSocket).
 - ​The Server: Initializes a ServerSocket to listen on a designated port. It uses multi-threading to handle incoming connections, ensuring that multiple users can chat simultaneously without blocking the server.
